@@ -1,0 +1,2 @@
+cd c:\Users\kbae\Desktop\work\time-tracker
+node server.js
